@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Project 4</string>
+    <string name="cross">X</string>
+    <string name="circle">O</string>
+</resources>
